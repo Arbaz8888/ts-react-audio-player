@@ -8,47 +8,56 @@
         {
           "name": "Breathe",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/deep-house/Breathe.mp3",
-          "duration": 265
+          "duration": 265,
+          "image": "https://images.unsplash.com/photo-1495433324511-bf8e92934d90?fit=crop&w=200&h=200"
         },
         {
           "name": "Imagery Intelligence",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/deep-house/Imagery%20Intelligence.mp3",
-          "duration": 484
+          "duration": 484,
+          "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?fit=crop&w=200&h=200"
         },
         {
           "name": "Surfing",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/deep-house/Surfing.mp3",
-          "duration": 312
+          "duration": 312,
+          "image": "https://images.unsplash.com/photo-1470770903676-69b98201ea1c?fit=crop&w=200&h=200"
         },
         {
           "name": "Subaqueous",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/deep-house/Subaqueous.mp3",
-          "duration": 417
+          "duration": 417,
+          "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fit=crop&w=200&h=200"
         },
         {
           "name": "Elastic",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/deep-house/Elastic.mp3",
-          "duration": 314
+          "duration": 314,
+          "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?fit=crop&w=200&h=200"
         },
         {
           "name": "Infraction",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/deep-house/Infraction.mp3",
-          "duration": 286
+          "duration": 286,
+          "image": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?fit=crop&w=200&h=200"
         },
         {
           "name": "Ascent",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/deep-house/Ascent.mp3",
-          "duration": 313
+          "duration": 313,
+          "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?fit=crop&w=200&h=200"
         },
         {
           "name": "Shake",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/deep-house/Shake.mp3",
-          "duration": 378
+          "duration": 378,
+          "image": "https://images.pexels.com/photos/164716/pexels-photo-164716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
         },
         {
           "name": "Endless",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/deep-house/Endless.mp3",
-          "duration": 398
+          "duration": 398,
+          "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=200&h=200"
         }
       ]
     },
@@ -59,38 +68,45 @@
       "tracks": [
         {
           "name": "A Gentle Fog Descends",
-          "url": "https://storage.googleapis.com/linear-worktrial/media-player/neither-and-both/Breathe.mp3",
-          "duration": 430
+          "url": "https://storage.googleapis.com/linear-worktrial/media-player/neither-and-both/A%20Gentle%20Fog%20Descends.mp3",
+          "duration": 430,
+          "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?fit=crop&w=200&h=200"
         },
         {
-          "name": "Everyting Tastes Different",
+          "name": "Everything Tastes Different",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/neither-and-both/Everyting%20Tastes%20Different.mp3",
-          "duration": 351
+          "duration": 351,
+          "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?fit=crop&w=200&h=200"
         },
         {
           "name": "A Most Joyous Occasion",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/neither-and-both/A%20Most%20Joyous%20Occasion.mp3",
-          "duration": 336
+          "duration": 336,
+          "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?fit=crop&w=200&h=200"
         },
         {
           "name": "Ethereal Cafe",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/neither-and-both/Ethereal%20Cafe.mp3",
-          "duration": 415
+          "duration": 415,
+          "image": "https://images.pexels.com/photos/302896/pexels-photo-302896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
         },
         {
           "name": "Melancholy Aurora",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/neither-and-both/Melancholy%20Aurora.mp3",
-          "duration": 302
+          "duration": 302,
+          "image": "https://images.pexels.com/photos/110874/pexels-photo-110874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200"
         },
         {
           "name": "Mostly Melody",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/neither-and-both/Mostly%20Melody.mp3",
-          "duration": 360
+          "duration": 360,
+          "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?fit=crop&w=200&h=200"
         },
         {
           "name": "The Companionship of Isolation",
           "url": "https://storage.googleapis.com/linear-worktrial/media-player/neither-and-both/The%20Companionship%20of%20Isolation.mp3",
-          "duration": 322
+          "duration": 322,
+          "image": "https://images.unsplash.com/photo-1520857014576-2c4f4c972b57?fit=crop&w=200&h=200"
         }
       ]
     }
