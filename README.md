@@ -1,7 +1,4 @@
-# 🎧 Linear Media Player – Submission by Arbaz Attar
-
-Hi Linear team 👋  
-Thanks for the opportunity to work on this — I thoroughly enjoyed the process of designing and building this app. Below is a walkthrough of what I built, how I approached it, and the care I put into getting every detail right.
+I thoroughly enjoyed the process of designing and building this app. Below is a walkthrough of what I built, how I approached it, and the care I put into getting every detail right.
 
 ---
 
@@ -72,24 +69,3 @@ Here’s how I tackled it:
 - 🧼 UI that's clean, calm, and easy on the eyes  
 
 ---
-
-## 🔄 Next Steps (if continued)
-
-If given the opportunity to move forward, here’s how I’d take this further:
-
-- Add shuffle & repeat logic  
-- Break up logic into reusable components  
-- Store last played state in local storage  
-- Add accessibility (ARIA labels, keyboard control)  
-- Host a live demo via Vercel or Netlify  
-
----
-
-## 💬 Closing Note
-
-I really appreciated the freedom in this assignment — it gave me a chance to go beyond “just make it work” and build something I’m proud of. From audio handling to UI polish, every line of code here reflects my attention to detail and excitement to build great user experiences.
-
-Thanks again for your time!  
-Looking forward to the next step 🙏
-
-— Arbaz Attar
